@@ -29,7 +29,7 @@ spec:
     spec:
       containers:
         - name: my-nginx-container
-          image: rlaaudgus/my-test3:latest
+          image: rlaaudgus/my-test3:38
           ports:
             - containerPort: 80
           resources:
